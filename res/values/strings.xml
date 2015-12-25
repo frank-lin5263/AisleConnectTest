@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AisleConnectTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="sign">Sign In</string>
+    <string name="account_text">paul.lin@lineagenetworks.com</string>
+    <string name="password_text">welcome1</string>
+    <string name="sign_error">Account or Password Error</string>
+    <string name="no_book_found">No book was found</string>
+
+</resources>
